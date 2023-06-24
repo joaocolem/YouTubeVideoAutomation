@@ -10,7 +10,7 @@
 </p>
 
 
-> Status do Projeto: :warning:em desenvolvimento
+> Status do Projeto: :heavy_check_mark: Concluído
 
 ### Tópicos 
 
